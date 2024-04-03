@@ -1,6 +1,6 @@
-# ecommerce-with-reactJS-reduxtoolkit
+# Ecommerce-with-reactJS-reduxtoolkit
 
-A fully responsive complex ReactJS shopping cart built using Redux-Toolkit with a Modern UI.
+A fully responsive complex ReactJS shopping cart built using Redux-Toolkit with a Modern UI and sorting function which can give the top 10 N Product of the Website.
 
 # The UI :-
 
